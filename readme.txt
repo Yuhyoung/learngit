@@ -3,4 +3,3 @@ Git is free software distributed under the GPl.
 Git has a mutable index called srage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
-nothing
