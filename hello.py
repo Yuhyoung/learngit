@@ -1,2 +1,2 @@
-#111
 print ("hello word")
+print hello
